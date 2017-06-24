@@ -1,0 +1,24 @@
+body {
+  background-color: white;
+  color: black;
+  margin-top: 100px;
+  border: 1px solid black;
+  text-align: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body p {
+  font-weight: 20px;
+  border: 1px solid yellow;
+}
+
+p {
+  background-color: black;
+}
+
+p li {
+  color: white;
+}
